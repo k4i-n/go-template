@@ -5,7 +5,7 @@ A starting point for a Go 1.27 project: golangci-lint and govulncheck pinned in 
 ## Start a project
 
 ```sh
-go run golang.org/x/tools/cmd/gonew@latest github.com/nhkhai-vn/go-template example.com/myapp
+go run golang.org/x/tools/cmd/gonew@latest github.com/sgl-k/go-template example.com/myapp
 cd myapp
 make test
 make run       # prints "Hello, world!"
