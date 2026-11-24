@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/nhkhai-vn/go-template/internal/greeting"
+	"github.com/sgl-k/go-template/internal/greeting"
 )
 
 func TestRun_PrintsGreeting(t *testing.T) {

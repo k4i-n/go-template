@@ -5,7 +5,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/nhkhai-vn/go-template/internal/greeting"
+	"github.com/sgl-k/go-template/internal/greeting"
 )
 
 func main() {
