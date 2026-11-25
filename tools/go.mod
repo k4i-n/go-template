@@ -1,4 +1,4 @@
-module github.com/nhkhai-vn/go-template/tools
+module github.com/k4i-n/go-template/tools
 
 go 1.27.3
 
